@@ -8,8 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'param',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  description: "Hi, I’m Param Bhagat — a passionate developer specializing in Flutter, Full Stack, and modern web technologies. Explore my projects, technical skills, and creative work that turn ideas into digital experiences."
 }
 
 export default function RootLayout({
